@@ -1,0 +1,13 @@
+C:\Users\RYZEN\Desktop\PP Course Work\galaxyApp\bin\Debug\netcoreapp3.1\GalaxiesCatalogue.exe
+C:\Users\RYZEN\Desktop\PP Course Work\galaxyApp\bin\Debug\netcoreapp3.1\GalaxiesCatalogue.deps.json
+C:\Users\RYZEN\Desktop\PP Course Work\galaxyApp\bin\Debug\netcoreapp3.1\GalaxiesCatalogue.runtimeconfig.json
+C:\Users\RYZEN\Desktop\PP Course Work\galaxyApp\bin\Debug\netcoreapp3.1\GalaxiesCatalogue.runtimeconfig.dev.json
+C:\Users\RYZEN\Desktop\PP Course Work\galaxyApp\bin\Debug\netcoreapp3.1\GalaxiesCatalogue.dll
+C:\Users\RYZEN\Desktop\PP Course Work\galaxyApp\bin\Debug\netcoreapp3.1\GalaxiesCatalogue.pdb
+C:\Users\RYZEN\Desktop\PP Course Work\galaxyApp\obj\Debug\netcoreapp3.1\GalaxiesCatalogue.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\PP Course Work\galaxyApp\obj\Debug\netcoreapp3.1\GalaxiesCatalogue.AssemblyInfoInputs.cache
+C:\Users\RYZEN\Desktop\PP Course Work\galaxyApp\obj\Debug\netcoreapp3.1\GalaxiesCatalogue.AssemblyInfo.cs
+C:\Users\RYZEN\Desktop\PP Course Work\galaxyApp\obj\Debug\netcoreapp3.1\GalaxiesCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\PP Course Work\galaxyApp\obj\Debug\netcoreapp3.1\GalaxiesCatalogue.dll
+C:\Users\RYZEN\Desktop\PP Course Work\galaxyApp\obj\Debug\netcoreapp3.1\GalaxiesCatalogue.pdb
+C:\Users\RYZEN\Desktop\PP Course Work\galaxyApp\obj\Debug\netcoreapp3.1\GalaxiesCatalogue.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\bin\Debug\netcoreapp3.1\GC.exe
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\bin\Debug\netcoreapp3.1\input.txt
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\bin\Debug\netcoreapp3.1\GC.deps.json
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\bin\Debug\netcoreapp3.1\GC.runtimeconfig.json
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\bin\Debug\netcoreapp3.1\GC.runtimeconfig.dev.json
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\bin\Debug\netcoreapp3.1\GC.dll
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\bin\Debug\netcoreapp3.1\GC.pdb
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\obj\Debug\netcoreapp3.1\GC.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\obj\Debug\netcoreapp3.1\GC.AssemblyInfoInputs.cache
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\obj\Debug\netcoreapp3.1\GC.AssemblyInfo.cs
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\obj\Debug\netcoreapp3.1\GC.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\obj\Debug\netcoreapp3.1\GC.dll
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\obj\Debug\netcoreapp3.1\GC.pdb
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\obj\Debug\netcoreapp3.1\GC.genruntimeconfig.cache

@@ -1,0 +1,28 @@
+C:\Users\ASUS\Desktop\курсови пп\unibit-pp-coursework-main\Kursova Rabota PP\bin\Debug\netcoreapp3.1\Kursova Rabota PP.exe
+C:\Users\ASUS\Desktop\курсови пп\unibit-pp-coursework-main\Kursova Rabota PP\bin\Debug\netcoreapp3.1\input.txt
+C:\Users\ASUS\Desktop\курсови пп\unibit-pp-coursework-main\Kursova Rabota PP\bin\Debug\netcoreapp3.1\Kursova Rabota PP.deps.json
+C:\Users\ASUS\Desktop\курсови пп\unibit-pp-coursework-main\Kursova Rabota PP\bin\Debug\netcoreapp3.1\Kursova Rabota PP.runtimeconfig.json
+C:\Users\ASUS\Desktop\курсови пп\unibit-pp-coursework-main\Kursova Rabota PP\bin\Debug\netcoreapp3.1\Kursova Rabota PP.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\курсови пп\unibit-pp-coursework-main\Kursova Rabota PP\bin\Debug\netcoreapp3.1\Kursova Rabota PP.dll
+C:\Users\ASUS\Desktop\курсови пп\unibit-pp-coursework-main\Kursova Rabota PP\bin\Debug\netcoreapp3.1\Kursova Rabota PP.pdb
+C:\Users\ASUS\Desktop\курсови пп\unibit-pp-coursework-main\Kursova Rabota PP\obj\Debug\netcoreapp3.1\Kursova Rabota PP.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\курсови пп\unibit-pp-coursework-main\Kursova Rabota PP\obj\Debug\netcoreapp3.1\Kursova Rabota PP.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\курсови пп\unibit-pp-coursework-main\Kursova Rabota PP\obj\Debug\netcoreapp3.1\Kursova Rabota PP.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\курсови пп\unibit-pp-coursework-main\Kursova Rabota PP\obj\Debug\netcoreapp3.1\Kursova Rabota PP.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\курсови пп\unibit-pp-coursework-main\Kursova Rabota PP\obj\Debug\netcoreapp3.1\Kursova Rabota PP.dll
+C:\Users\ASUS\Desktop\курсови пп\unibit-pp-coursework-main\Kursova Rabota PP\obj\Debug\netcoreapp3.1\Kursova Rabota PP.pdb
+C:\Users\ASUS\Desktop\курсови пп\unibit-pp-coursework-main\Kursova Rabota PP\obj\Debug\netcoreapp3.1\Kursova Rabota PP.genruntimeconfig.cache
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\bin\Debug\netcoreapp3.1\Kursova Rabota PP.exe
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\bin\Debug\netcoreapp3.1\input.txt
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\bin\Debug\netcoreapp3.1\Kursova Rabota PP.deps.json
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\bin\Debug\netcoreapp3.1\Kursova Rabota PP.runtimeconfig.json
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\bin\Debug\netcoreapp3.1\Kursova Rabota PP.runtimeconfig.dev.json
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\bin\Debug\netcoreapp3.1\Kursova Rabota PP.dll
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\bin\Debug\netcoreapp3.1\Kursova Rabota PP.pdb
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\obj\Debug\netcoreapp3.1\Kursova Rabota PP.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\obj\Debug\netcoreapp3.1\Kursova Rabota PP.AssemblyInfoInputs.cache
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\obj\Debug\netcoreapp3.1\Kursova Rabota PP.AssemblyInfo.cs
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\obj\Debug\netcoreapp3.1\Kursova Rabota PP.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\obj\Debug\netcoreapp3.1\Kursova Rabota PP.dll
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\obj\Debug\netcoreapp3.1\Kursova Rabota PP.pdb
+C:\Users\RYZEN\Desktop\PP\Kursova Rabota PP\obj\Debug\netcoreapp3.1\Kursova Rabota PP.genruntimeconfig.cache
